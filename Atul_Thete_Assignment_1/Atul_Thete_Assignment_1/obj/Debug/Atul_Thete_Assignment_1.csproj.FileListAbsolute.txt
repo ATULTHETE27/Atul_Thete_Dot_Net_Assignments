@@ -1,0 +1,7 @@
+D:\ALL Study Material courses\dotNET\Centralogic\C#\Atul_Thete_Assignment_1\Atul_Thete_Assignment_1\bin\Debug\Atul_Thete_Assignment_1.exe.config
+D:\ALL Study Material courses\dotNET\Centralogic\C#\Atul_Thete_Assignment_1\Atul_Thete_Assignment_1\bin\Debug\Atul_Thete_Assignment_1.exe
+D:\ALL Study Material courses\dotNET\Centralogic\C#\Atul_Thete_Assignment_1\Atul_Thete_Assignment_1\bin\Debug\Atul_Thete_Assignment_1.pdb
+D:\ALL Study Material courses\dotNET\Centralogic\C#\Atul_Thete_Assignment_1\Atul_Thete_Assignment_1\obj\Debug\Atul_Thete_Assignment_1.csproj.AssemblyReference.cache
+D:\ALL Study Material courses\dotNET\Centralogic\C#\Atul_Thete_Assignment_1\Atul_Thete_Assignment_1\obj\Debug\Atul_Thete_Assignment_1.csproj.CoreCompileInputs.cache
+D:\ALL Study Material courses\dotNET\Centralogic\C#\Atul_Thete_Assignment_1\Atul_Thete_Assignment_1\obj\Debug\Atul_Thete_Assignment_1.exe
+D:\ALL Study Material courses\dotNET\Centralogic\C#\Atul_Thete_Assignment_1\Atul_Thete_Assignment_1\obj\Debug\Atul_Thete_Assignment_1.pdb
