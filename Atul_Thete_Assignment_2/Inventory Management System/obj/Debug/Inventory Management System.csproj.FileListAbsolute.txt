@@ -1,7 +1,0 @@
-D:\ALL Study Material courses\dotNET\Centralogic\C#\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.config
-D:\ALL Study Material courses\dotNET\Centralogic\C#\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
-D:\ALL Study Material courses\dotNET\Centralogic\C#\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.pdb
-D:\ALL Study Material courses\dotNET\Centralogic\C#\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.AssemblyReference.cache
-D:\ALL Study Material courses\dotNET\Centralogic\C#\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CoreCompileInputs.cache
-D:\ALL Study Material courses\dotNET\Centralogic\C#\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe
-D:\ALL Study Material courses\dotNET\Centralogic\C#\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.pdb
