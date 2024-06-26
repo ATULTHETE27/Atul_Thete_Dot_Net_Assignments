@@ -1,6 +1,0 @@
-@VisitorSecurityClearanceSystem_HostAddress = http://localhost:5145
-
-GET {{VisitorSecurityClearanceSystem_HostAddress}}/weatherforecast/
-Accept: application/json
-
-
