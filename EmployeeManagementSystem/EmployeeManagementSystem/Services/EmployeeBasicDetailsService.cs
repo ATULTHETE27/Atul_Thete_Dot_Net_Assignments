@@ -25,7 +25,7 @@ namespace EmployeeManagementSystem.Services
         public async Task<EmployeeBasicDetailsDTO> AddEmployeeBasicDetails(EmployeeBasicDetailsDTO employeeBasicDetails)
         {
             var entity = _autoMapper.Map<EmployeeBasicDetailsEntity>(employeeBasicDetails);
-            entity.Intialize(true, "employeeBasicDetails", "Prerit", "Prerit");
+            entity.Intialize(true, "employeeBasicDetails", "Atul", "Atul");
             var response = await _cosmoDBService.Add(entity);
             return _autoMapper.Map<EmployeeBasicDetailsDTO>(response);
         }
