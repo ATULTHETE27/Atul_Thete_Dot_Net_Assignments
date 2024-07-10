@@ -106,17 +106,21 @@ namespace EmployeeManagementSystem25.Services
         public async Task<EmployeeFilterCriteria> GetAllEmployeeBasicDetailsByPagination(EmployeeFilterCriteria employeeFilterCriteria)
         {
             EmployeeFilterCriteria criteria = new EmployeeFilterCriteria();
-
+        
             var employee = await GetAllEmployeeBasicDetails();
             criteria.totalCount = employee.Count;
-
+            criteria.Page = employeeFilterCriteria.Page;
+            criteria.PageSize = employeeFilterCriteria.PageSize;
+        
+            if (criteria.Page < 1) criteria.Page = 1;
+            if (criteria.PageSize < 1) criteria.PageSize = 10;
             var skip = employeeFilterCriteria.PageSize * (employeeFilterCriteria.Page - 1);
-
+        
             employee = employee.Skip(skip).Take(employeeFilterCriteria.PageSize).ToList();
-
+        
             employeeFilterCriteria.Employee = employee;
-
-            return criteria;
+        
+            return employeeFilterCriteria;
         }
 
         public async Task<VisitorDTO> AddVisitorByMakePostRequest(VisitorDTO visitor)
